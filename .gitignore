@@ -1,0 +1,3 @@
+# python - ignore core, configuration, test files.
+
+variables.py
