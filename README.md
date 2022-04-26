@@ -21,6 +21,8 @@ Exchange: it fetches up to 5 current exchange rates
 ![Sample Screenshot](WorkingCLISampleImage.png)
 
 
+
+
 ## How To Use:
 
 1. Rename sample_variables_file.py to variables.py
